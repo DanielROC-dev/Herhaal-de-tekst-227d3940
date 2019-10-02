@@ -1,5 +1,8 @@
 <?php
+ 
+$tekst = "test ayy lmao";
 
-echo 'Hello World';
 
-echo "Last statement";
+echo str_repeat($tekst, 5);
+
+?>
